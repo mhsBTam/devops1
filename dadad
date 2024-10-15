@@ -1,0 +1,32 @@
+[33mcommit e3f22a39dc50aee0fe4f9a848dcdf04a8dac76cb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: John Smith <john.smith@gmail.com>
+Date:   Mon Oct 14 23:43:16 2024 -0400
+
+    Added credentials.yml to gitignore
+
+[33mcommit c93fb7564d6baea182ba4c62173032cff3c1a89c[m
+Author: John Smith <john.smith@gmail.com>
+Date:   Mon Oct 14 23:15:57 2024 -0400
+
+    Added credentials.yml to gitignore
+
+[33mcommit cc2ffbea89c4b7e96c5b057adf72d4979a1e39e2[m
+Merge: 89d14dd 02ba510
+Author: mhsBTam <78750226+mhsBTam@users.noreply.github.com>
+Date:   Mon Oct 14 23:05:45 2024 -0400
+
+    Merge pull request #1 from mhsBTam/my-new-branch
+    
+    added first line in text file
+
+[33mcommit 02ba510615b7aed1bce12706ea796c791f307613[m[33m ([m[1;31morigin/my-new-branch[m[33m, [m[1;32mmy-new-branch[m[33m)[m
+Author: John Smith <john.smith@gmail.com>
+Date:   Mon Oct 14 23:01:08 2024 -0400
+
+    added first line in text file
+
+[33mcommit 89d14ddf753d2614ca5307222f6a23e2150b484d[m
+Author: John Smith <john.smith@gmail.com>
+Date:   Mon Oct 14 22:57:19 2024 -0400
+
+    This is my first commit!
